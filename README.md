@@ -1,4 +1,4 @@
-👋 Hi, I’m @heyspaceturtle
+👋 Hi, I’m @fernandodsales
 
 - Aspiring business data analyst who is currently studying a Master of Science in Big Data Analytics for Business
   
