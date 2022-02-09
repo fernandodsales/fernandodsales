@@ -1,6 +1,6 @@
 👋 Hi, I’m @fernandodsales
 
-- Aspiring business data analyst who is currently studying a Master of Science in Big Data Analytics for Business
+- Aspiring business data scientist who is currently studying a Master of Science in Big Data Analytics for Business
   
 - Business management background and 2-year experience in finance within the entertainment industry
   
